@@ -1,6 +1,8 @@
 # fastDyadRobust
 Fast computation of cluster-robust standard errors for dyadic data via multiway decomposition Use fastDyadRobust With (In) R Software
 
+https://www.youtube.com/watch?v=JzJPQEwFZHY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
